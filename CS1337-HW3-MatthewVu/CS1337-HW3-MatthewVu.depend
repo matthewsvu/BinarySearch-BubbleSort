@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1582932730 source:c:\users\alexs\onedrive\documents\github\asciiart\cs1337-hw3-matthewvu\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
+1582932730 source:c:\users\alexs\onedrive\documents\github\binarysearch-bubblesort\cs1337-hw3-matthewvu\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
